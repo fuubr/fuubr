@@ -1,6 +1,6 @@
 # Oi, sou o Guilherme
 
-Desenvolvedor em formação (TI) em Itapetininga/SP. Trabalho com **automação de processos, análise de dados e desenvolvimento de sistemas** em uma empresa do setor florestal.
+Desenvolvedor em formação (TI) em Itapetininga/SP, com experiência prática em **automação de processos, análise de dados e desenvolvimento de sistemas** no setor florestal.
 
 ## O que eu construo
 
