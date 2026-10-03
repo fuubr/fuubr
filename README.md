@@ -4,17 +4,15 @@ Desenvolvedor em formação (TI) em Itapetininga/SP. Trabalho com **automação 
 
 ## O que eu construo
 
-**Apps offline-first (PWA):** controle de estoque e registro em campo, mesmo sem internet.
+**Apps offline-first (PWA):** controle de estoque e registro em campo, mesmo sem internet (React, Node.js, SQLite, IndexedDB).
 
 **Automações com n8n:** pipelines que leem PDFs e eliminam trabalho manual.
 
 **Ferramentas em Python:** análise de dados e sistemas quantitativos.
 
-## Projetos em destaque
+## Projeto em destaque
 
 **[PROJETO-QUANT](https://github.com/fuubr/PROJETO-QUANT):** pipeline de IA para trading com ceticismo de overfitting (backtest vetorizado, gestão de risco, paper trading automático via GitHub Actions).
-
-**[apparlapf](https://github.com/fuubr/apparlapf):** app mobile para registro de Arla 32 na frota de uma empresa florestal.
 
 ## Stack
 
